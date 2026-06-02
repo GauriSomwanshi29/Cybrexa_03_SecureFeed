@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Phishing Awareness",
+    "description": "Always verify URLs before entering passwords or personal information."
+  },
+  {
+    "title": "HTTPS Matters",
+    "description": "HTTPS provides encryption, but it does not always mean a website is safe."
+  },
+  {
+    "title": "Typosquatting Alert",
+    "description": "Attackers use fake domains like paypa1.com or g00gle.com to trick users."
+  }
+]
