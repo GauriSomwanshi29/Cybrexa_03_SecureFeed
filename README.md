@@ -212,7 +212,7 @@ Cybrexa_03_SecuriFeed/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Cybrexa_03_SecuriFeed.git
+git clone https://github.com/GauriSomwanshi29/Cybrexa_03_SecuriFeed.git
 ```
 
 ### Open Project
@@ -280,6 +280,12 @@ paypal.com
 ### Step 5
 
 Generate a final risk score.
+
+---
+# 🛡️ SecuriFeed – PhishDetect
+
+🌐 Live Demo
+🔗 https://secure-feed-phish-detect.netlify.app/
 
 ---
 
